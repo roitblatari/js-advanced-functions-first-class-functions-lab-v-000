@@ -27,15 +27,15 @@ function fareTripler(num) {
   return fareDoubler(num) + num ;
 }
 
- // const createFareMultiplier = function (multiplyValue) {
- //   return function (value) {
- //     return multiplyValue * value;
- //   };
- // };
- //
- // const fareDoubler = createFareMultiplier(2);
- //
- // const fareTripler = createFareMultiplier(3);
+  // const createFareMultiplier = function (multiplyValue) {
+  //   return function (value) {
+  //     return multiplyValue * value;
+  //   };
+  // };
+ 
+  // const fareDoubler = createFareMultiplier(2);
+ 
+  // const fareTripler = createFareMultiplier(3);
 
 
 
